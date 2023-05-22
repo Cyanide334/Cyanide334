@@ -9,7 +9,7 @@
 - 🌟 I'm an avid gamer and software developer with a passion for **Anime, Valorant, and coding adventures**
 
 - 💻 My expertise spans Full Stack Web Development using **React, Node, Python, Flask, PostgreSQL, GCP, AWS**, and whatever else goes into it, and Software Development using C and C++
-- 👨‍💼 As an **AllHat Engineer at Tajir**, I maintained and revised application backend *APIs, Retool Apps, React Websites and PG Databases*. I also have experience as a *lvl 1 seller on Fiverr*
+- 👨‍💼 As an **AllHat FullStack DoAnything Software Engineer at Tajir**, I maintained and revised application backend *APIs, Retool Apps, React Websites and PG Databases*. I also have experience as a *lvl 1 seller on Fiverr*
 - 💡 I am eagerly seeking an opportunity to join a **dynamic startup** that shares my playful spirit and enjoys random bursts of entertainment every now and then. When you're surrounded by coding powerhouses, you must electrify!
 - 🔭 [I’m still trying to find a fulltime remote job 😔](https://www.youtube.com/watch?v=7ODcC5z6Ca0)
 - 🌱 I'm trynna learn **AWS, TypeScript and How to not kms**
