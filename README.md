@@ -6,24 +6,27 @@
 ***
 <h3 align="left">Little bit about me 🙋‍♂️</h3>
 
-- 🌟 I'm an avid gamer and software developer with a passion for **Anime, Valorant, and coding adventures**
+- 🌟 **Anime, Valorant, and coding adventures**
 
-- 💻 My expertise spans Full Stack Web Development using **React, Node, Python, Flask, PostgreSQL, GCP, AWS**, and whatever else goes into it, and Software Development using C and C++
-- 👨‍💼 As an **AllHat FullStack DoAnything Software Engineer at Tajir**, I maintained and revised application backend *APIs, Retool Apps, React Websites and PG Databases*. I also have experience as a *lvl 1 seller on Fiverr*
-- 💡 I am eagerly seeking an opportunity to join a **dynamic startup** that shares my playful spirit and enjoys random bursts of entertainment every now and then. When you're surrounded by coding powerhouses, you must electrify!
-- 🔭 [I’m still trying to find a fulltime remote job 😔](https://www.youtube.com/watch?v=7ODcC5z6Ca0)
-- 🌱 I'm trynna learn **AWS, TypeScript and How to not kms**
-- 💬 You can chat about **Anime Reccs 📺 and Valorant Tips 🔫 and a wee bit of 👨‍💻**
-- 📫 Reach out to me at **m.inamullah.ch@gmail.com**
-- ⚡ Fun fact **I love triple steak chicken burgers :D**
+- 💻 **React, Node, TypeScript, Python, Flask, PostgreSQL, GCP, AWS and C++**
+- 👨‍💼 **AllHat FullStack DoAnything Software Engineer at Tajir**,
+- 💎 **Level 1 seller on Fiverr**
+- 💙 **I dig startups 🚀, When you're surrounded by coding powerhouses, you must electrify!**
+- 🔭 [Still trying to find a remote job from PK 😔](https://www.youtube.com/watch?v=7ODcC5z6Ca0)
+- 🌱 Trynna learn **AWS, TypeScript and How to not kms**
+- 💬 Ask me about **Anime Reccs 📺, Valorant Tips 🔫 and a wee bit of 👨‍💻**
+- 📫 **m.inamullah.ch@gmail.com**
+- ⚡ **I love triple steak chicken burgers :D**
 
 ***
 ### Achievements 🏆
 
-- 🎓 **3.98/4.00 CGPA** at the best CS university of the country, *FAST-NUCES*
-- 🥇 **Top 10** in Geek-a-thon 2022, and Top 100 in Quora Programming Challenge 2022
-- 💼 **Level 1 seller** for 6 months on Fiverr
-- 🎮 **Local Valorant Champion 🏆**
+- 🎓 **3.98/4.00 CGPA** 
+  - at the best CS university of the country, *FAST-NUCES*
+- 🥇 **Top 10 in Geek-a-thon 2022**
+- 🥈 **Top 100 in Quora Programming Challenge 2022**
+- 🥉 **Level 1 seller** for 6 months on Fiverr
+- 🏆 **Local Valorant Champion 🎮**
 
 <h3 align="left">Connect 🤝</h3>
 <p align="left">
