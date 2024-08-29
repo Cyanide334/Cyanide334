@@ -9,7 +9,7 @@
 
 - 🌟 **Anime, Valorant, and coding adventures**
 
-- 💻 **React, Node, TypeScript, Python, Flask, PostgreSQL, GCP, AWS and C++**
+- 💻 **React, Node, JS ES6, Python, Flask, PostgreSQL, GCP, AWS and C++**
 - 👨‍💼 **AllHat FullStack DoAnything Software Engineer at Tajir**,
 - 💎 **Level 1 seller on Fiverr**
 - 💙 **I dig startups 🚀, When you're surrounded by coding powerhouses, you must electrify!**
