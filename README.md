@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=cyanide334&style=plastic&color=1efeff)
-<h1 align="center">Ohayo 👋, I'm Inam (CyaN)</h1>
+<h1 align="center">Hi 👋, I'm Inam (CyaN)</h1>
 <h3 align="center">Your friendly neighborhood geek who likes Anime, Valorant, and Coding :D 🚀</h3>
 
 <p align="middle"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&row=1" alt="cyanide334" /></a> </p>
